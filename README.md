@@ -1,4 +1,7 @@
 # Hi 👋, I'm MinProducer
+![SVG Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=Min%20Dev%20🔥&text2=💻Fullstack%20Developer%20from%20Việt%20Nam&width=900&height=400)
+
+<img src="https://komarev.com/ghpvc/?username=minproducer&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 
 ### An experienced fullstack developer
 
