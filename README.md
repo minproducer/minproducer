@@ -111,15 +111,21 @@ $ curl -s https://api.minproducer.com/me | jq
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=minproducer&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff9c&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&hide_border=false&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minproducer&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff9c&title_color=00ff9c&text_color=c9d1d9&hide_border=false" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minproducer&theme=github_dark)](https://github.com/minproducer)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minproducer&theme=dark&background=0d1117&border=00ff9c&ring=00ff9c&fire=ff6b35&currStreakLabel=00ff9c&sideLabels=00ff9c" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minproducer&theme=github_dark)](https://github.com/minproducer)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minproducer&theme=github_dark)](https://github.com/minproducer)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minproducer&theme=github_dark)](https://github.com/minproducer)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minproducer&theme=github_dark&utcOffset=7)](https://github.com/minproducer)
 
 </div>
 
